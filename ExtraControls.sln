@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExtraControls", "ExtraControls\ExtraControls.csproj", "{FEB849A8-8FC7-4E07-8243-EC8558FF68D7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEB849A8-8FC7-4E07-8243-EC8558FF68D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEB849A8-8FC7-4E07-8243-EC8558FF68D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEB849A8-8FC7-4E07-8243-EC8558FF68D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEB849A8-8FC7-4E07-8243-EC8558FF68D7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B0CDC47-4B17-4BE2-B1B0-608C7844F49F}
+	EndGlobalSection
+EndGlobal
